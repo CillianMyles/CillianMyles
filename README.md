@@ -5,7 +5,7 @@
 - 🤓 In my spare time I’m dipping my toes into building indie apps, and collaborating on open source `Flutter` and `Dart` projects
 - 💬 Ask me about: `Flutter`, `Dart`, mobile, desktop, & web development
 - 📫 How to reach me: `getme@cillianmyles.com`
-- ☕️ Things I care about: good coffee, & family ❤️
+- ❤️ Things I care about: good coffee, friends & family
 
 <table style="width:100%">
   <tr>
